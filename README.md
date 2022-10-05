@@ -196,6 +196,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **IMEA**: **"Informed Multi-context Entity Alignment".**
 *Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Xiaofang Zhou.* (WSDM 2022) \[[paper](https://arxiv.org/pdf/2201.00304.pdf)\]\[[code](https://github.com/JadeXIN/IMEA)\]
 
+1. **CycTEA**: **"Ensemble Semi-supervised Entity Alignment via Cycle-teaching".**
+*Kexuan Xin, Zequn Sun, Wen Hua, Bing Liu, Wei Hu, Jianfeng Qu, Xiaofang Zhou.* (AAAI 2022). \[[paper](https://www.aaai.org/AAAI22Papers/AAAI-5065.XinK.pdf)\]\[[code](https://github.com/JadeXIN/CycTEA)\]
+
 1. **LargeEA**: **"LargeEA: Aligning Entities for Large-scale Knowledge Graphs".**
 *Congcong Ge, Xiaoze Liu, Lu Chen, Baihua Zheng, Yunjun Gao.* (VLDB 2022) \[[paper](https://arxiv.org/pdf/2108.05211.pdf)\]\[[code](https://github.com/ZJU-DBL/LargeEA)\]
 
